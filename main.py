@@ -57,7 +57,6 @@ cancel.grid(column = 3, row = 3)
 
 
 
-
 print(toDoListInit)
 
 
